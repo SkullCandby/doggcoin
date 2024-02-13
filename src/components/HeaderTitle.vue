@@ -7,7 +7,7 @@
       <img :src="imagePath2" alt="Title Image" class="header-image">
       <img :src="imagePath3" alt="Title Image" class="header-image">
     </div>
-      <p style="font-weight: bold; color:black; font-size: 2em;"> CA: 52mE2VRk8qGmLFWmRABYvGHxMwDMCM4jnXpJPazCJ2fu</p>
+      <p style="font-weight: bold; color:black; font-size: 2em;"> 52mE2VRk8qGmLFWmRABYvGHxMwDMCM4jnXpJPazCJ2fu</p>
     </div>
   </template>
   
